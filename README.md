@@ -1,76 +1,62 @@
-<!-- Banner / Header -->
-<div align="center">
-  <img src="assets/banner.png" width="100%"/>
-</div>
+[![](assets/banner.png)](assets/banner.png)
 
-# ¡Hola! Soy Alexander Guevara (kusillus) 👋
-### Developer & Tech Lead | AI & Fintech Builder | Pokémon Player ⚡
+# Hola, soy Alexander (kusillus) 👋
 
-Apasionado por la intersección entre la ingeniería de software y la estrategia de negocio. Me especializo en el diseño de APIs robustas y escalables, la dirección técnica de plataformas fintech en el sector financiero y la automatización inteligente utilizando modelos avanzados de IA en entornos reales de desarrollo.
+### Tech Lead en CambioSeguro · Experimentando con IA · Entrenador Pokémon ⚡
 
+Hago software desde hace más de 7 años y sigo con la misma curiosidad del primer día. Hoy lidero el equipo técnico de [CambioSeguro](https://cambioseguro.com), y en mis ratos libres pruebo cuanta herramienta nueva sale, sobre todo si tiene que ver con IA.
 
-<!-- Social icons -->
-<div align="center">
-  <a href="https://github.com/Kusillus">
-    <img src="https://img.shields.io/badge/GitHub-0f0f0f?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.tiktok.com/@kusillus">
-    <img src="https://img.shields.io/badge/TikTok-0f0f0f?style=for-the-badge&logo=tiktok&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/kusillus">
-    <img src="https://img.shields.io/badge/LinkedIn-0f0f0f?style=for-the-badge&logo=linkedin&logoColor=00d4ff" />
-  </a>
-</div>
+[![](https://img.shields.io/badge/GitHub-0f0f0f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kusillus) [![](https://img.shields.io/badge/TikTok-0f0f0f?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@kusillus) [![](https://img.shields.io/badge/LinkedIn-0f0f0f?style=for-the-badge&logo=linkedin&logoColor=00d4ff)](https://linkedin.com/in/kusillus)
 
 ---
 
+### <img src="assets/icons/about.png" height="20"> Sobre mí
 
-### <img src="./assets/icons/about.png" alt="Mi Icono" width="30" /> Sobre mí
-
-* **Liderazgo de Producto y Software:** Como **Tech Lead** en **Recadia** y **Cambioseguro**, conecto los objetivos de negocio con soluciones tecnológicas de alto impacto para optimizar pasarelas de pago y sistemas financieros.
-* **Automatización y Ecosistema de IA:** Integro modelos avanzados de lenguaje (**Claude API, AWS Bedrock, Ollama, Gemini**) mediante flujos automatizados (*MCP servers*) para optimizar el ciclo de desarrollo y auditoría de código.
-* **Sistemas y Entornos:** Defensor del ecosistema Open Source; configuro y mantengo mis entornos de trabajo sobre arquitecturas **Arch Linux** y **CachyOS** optimizados para el desarrollo diario de software.
-
----
-
-### <img src="./assets/icons/tools.png" alt="Mi Icono" width="30" /> Ecosistema Técnico y Herramientas
-
-| Capa / Categoría | Tecnologías Clave |
-| :--- | :--- |
-| **Backend & APIs** | Node.js · Koa · Express · TypeScript · JavaScript |
-| **Bases de Datos** | MongoDB · Mongoose · AWS DocumentDB |
-| **Frontend Web** | Nuxt 3 · Vue 3 · TailwindCSS |
-| **Infraestructura & DevOps** | AWS (Bedrock, WAF, CDK, CodePipeline) · Docker · LocalStack |
-| **IA & Productividad** | Claude Code · Gemini CLI · Ollama · MCP Servers · Obsidian |
-| **Ecosistema OS** | CachyOS Linux · Arch Linux |
+- **Ahora mismo:** Tech Lead en CambioSeguro, enfocado ahí al 100%. Diseño APIs, cuido la arquitectura y me aseguro de que lo que sale a producción siga funcionando después.
+- **Lo que estoy explorando:** cómo meter la IA en el día a día del desarrollo. Uso Claude Code, Claude API, AWS Bedrock, Ollama y Gemini, y los conecto con nuestras herramientas mediante servidores MCP.
+- **Mi entorno:** me muevo entre Linux y Windows. En el trabajo uso Linux Mint. Para mis proyectos personales uso Windows 11 con WSL2, ajustado para que no se coma los recursos, porque ahí corren mis herramientas de diseño y edición. Pero donde más disfruto es en Linux, porque puedo personalizar hasta el último detalle.
 
 ---
 
-### <img src="./assets/icons/game.png" alt="Mi Icono" width="30" /> Fuera del Código
+### <img src="assets/icons/tools.png" height="20"> Con qué trabajo
 
-
-* 🖨️ **Impresión 3D:** Entusiasta de la fabricación digital y diseño. Opero tecnologías FDM (**Ender 3 V2**) y Resina (**LD-002H**), gestionando un pequeño proyecto personal enfocado en componentes customizados (incluyendo Beyblade X).
-* 🏋️ **Gimnasio y Enfoque:** El entrenamiento de fuerza y el gimnasio son pilares esenciales en mi día a día; la disciplina requerida bajo la barra es la misma que aplico al resolver problemas de software complejos.
-* 🎬 **Creación de Contenido:** Comparto mi experiencia dev, configuraciones y vida en el mundo de la tecnología a través de TikTok.
-* 🐈 **Feline Co-workers:** Vivo y comparto mi espacio de trabajo diario junto a mis 6 gatos, quienes actúan como revisores finales de cada despliegue.
+| Área               | Tecnologías                                                  |
+| :----------------- | :----------------------------------------------------------- |
+| **Backend**        | Node.js · Koa · Express · TypeScript · JavaScript            |
+| **Bases de datos** | MongoDB · PostgreSQL · MySQL · DynamoDB                      |
+| **Frontend**       | Nuxt · Vue · React · TailwindCSS · Bootstrap                 |
+| **Infra**          | AWS (Bedrock, WAF, CDK, CodePipeline) · Docker · LocalStack  |
+| **IA**             | Claude Code · ChatGPT · Gemini CLI · DeepSeek · Ollama · MCP |
+| **Sistema**        | Linux Mint · CachyOS · Arch Linux · Windows 11 + WSL2        |
 
 ---
 
-### <img src="./assets/icons/message.png" alt="Mi Icono" width="30" /> Conectemos
+### <img src="assets/icons/game.png" height="20"> Fuera del código
 
-Siempre estoy interesado en expandir mi red, compartir experiencias técnicas en fintech, debatir sobre arquitecturas de IA o intercambiar ideas de estrategia competitiva.
+- 🖨️ **Impresión 3D:** tengo una Ender 3 V2 (FDM) y una LD-002H (resina). Imprimo cosas para todo tipo de usos, sobre todo piezas y accesorios para mis otros hobbies.
+- 🎥 **GoPro:** salgo a grabar lo que me llama la atención y lo convierto en videos para mis redes.
+- 🎮 **Juegos:** de mesa, de cartas y videojuegos. Si hay partida, me apunto.
+- 📺 **Anime y series:** Megaman, Pokémon, Power Rangers, Macross y Evangelion.
+- 🎸 **Música:** escucho de todo, pero casi siempre suena rock, metal o música japonesa.
+- 🏋️ **Gym:** voy seguido y trato de llevar una vida sana.
+- 🐈 **En casa:** mi esposa y nuestros 6 gatos, que hacen QA de cada despliegue caminando sobre el teclado.
 
-* 🌐 **Sitio Web:** [kusillus.com](https://kusillus.com)
-* 💼 **LinkedIn:** [linkedin.com/in/kusillus](https://linkedin.com/in/kusillus)
-* ✉️ **Email:** [wguevarab7@gmail.com](mailto:wguevarab7@gmail.com)
+---
 
-```javascript
-const profile = {
-  developer: "Alexander Guevara",
-  handle: "kusillus",
-  mission: "Building secure, intelligent, and scalable fintech ecosystems",
-  origin: "Peru 🇵🇪",
-  status: "Available to connect"
+### <img src="assets/icons/message.png" height="20"> Conversemos
+
+Si quieres hablar de fintech, IA, Linux o de cuál es el mejor final de Evangelion, escríbeme.
+
+- 🌐 **Web:** [kusillus.dev](https://kusillus.dev)
+- 💼 **LinkedIn:** [linkedin.com/in/kusillus](https://linkedin.com/in/kusillus)
+- ✉️ **Email:** wguevarab7@gmail.com
+
+```js
+const kusillus = {
+  rol: "Tech Lead @ CambioSeguro",
+  stack: ["Node.js", "MongoDB", "AWS", "Nuxt"],
+  explorando: ["IA", "MCP", "lo que salga esta semana"],
+  playlist: ["rock", "metal", "música japonesa"],
+  gatos: 6,
 };
-
 ```
